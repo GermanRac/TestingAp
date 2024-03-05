@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
     //coment 1
-    // holi
+    // holi 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
